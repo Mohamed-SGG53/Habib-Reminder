@@ -16,6 +16,11 @@
 
 ---
 
+### 🕑 المده التي يحتاجها للعمل
+* المده التي يحتاجها قرابة 10 ثواني او اقل حسب امكانيات الجهاز وبعد التشغيل سوف تسمع التذكير.
+
+---
+
 ### ⚙ المميزات
 
 * 🔊 تشغيل صوت للتذكير كل 5 دقائق بشكل افتراضي
@@ -78,6 +83,13 @@ The application runs silently in the system tray and works smoothly without any 
 
 > **Created by Mohamed Hesham**
 > Made sincerely for the sake of Allah and His Messenger ﷺ
+
+---
+
+🕑 Time Needed to Start
+
+The application takes approximately 10 seconds or less to start depending on your device performance.
+After starting, you will hear the reminder.
 
 ---
 
