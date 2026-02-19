@@ -5,6 +5,7 @@
 ---
 
 ## العربية
+
 ### 📌 نبذة عن البرنامج
 
 **Habib-Reminder** هو تطبيق بسيط يعمل في الخلفية ويقوم بتشغيل ملف صوتي للتذكير بالصلاة على النبي محمد ﷺ بشكل دوري.
@@ -13,11 +14,6 @@
 
 > **صنع بواسطة محمد هشام**
 > لخالص وجه الله ورسوله ﷺ
-
----
-
-### 🕑 المده التي يحتاجها للعمل
-* المده التي يحتاجها قرابة 10 ثواني او اقل حسب امكانيات الجهاز وبعد التشغيل سوف تسمع التذكير.
 
 ---
 
@@ -47,6 +43,13 @@
 
 ---
 
+### 🕑 المدة التي يحتاجها للعمل
+
+* المدة التي يحتاجها التطبيق تقريبا **10 ثواني أو أقل** حسب إمكانيات الجهاز.
+  بعد التشغيل مباشرة، ستسمع التذكير.
+
+---
+
 ### ❌ الأخطاء المتوقع ظهورها
 
 * مشكلة من مضاد الفيروسات (البرنامج يحتاج لفك ضغط الملفات في أماكن معينة. لا تقلق، هذه الملفات **آمنة 100%**. يرجى الموافقة على السماح للتطبيق بفعل ذلك.)
@@ -63,13 +66,16 @@
 
 ---
 
-### ▶ الإعدادات الافتراضية
+### 💻 المتطلبات
 
-* مدة التذكير الافتراضية: **5 دقائق**
+* نظام التشغيل: **Windows 10 أو Windows 11**
+* يدعم: **64-bit**
 
 ---
 
-# 🕌 Habib-Reminder
+### ▶ الإعدادات الافتراضية
+
+* مدة التذكير الافتراضية: **5 دقائق**
 
 ---
 
@@ -83,13 +89,6 @@ The application runs silently in the system tray and works smoothly without any 
 
 > **Created by Mohamed Hesham**
 > Made sincerely for the sake of Allah and His Messenger ﷺ
-
----
-
-🕑 Time Needed to Start
-
-The application takes approximately 10 seconds or less to start depending on your device performance.
-After starting, you will hear the reminder.
 
 ---
 
@@ -119,6 +118,13 @@ After confirmation, the new interval will be applied immediately.
 
 ---
 
+### 🕑 Time Needed to Start
+
+* The application takes approximately **10 seconds or less** to start depending on your device performance.
+  After starting, you will hear the reminder.
+
+---
+
 ### ❌ Possible Issues
 
 * Antivirus interference (The program needs to extract files in certain locations. Don’t worry, these files are **100% safe**. Please allow the application to do this.)
@@ -132,6 +138,13 @@ After confirmation, the new interval will be applied immediately.
 3. The program will now run without issues
 
 <img width="536" height="390" alt="image" src="https://github.com/user-attachments/assets/656b2920-47c2-410f-9841-fff06d8d4b54" />
+
+---
+
+### 💻 Requirements
+
+* OS: **Windows 10 or Windows 11**
+* Supports: **64-bit**
 
 ---
 
